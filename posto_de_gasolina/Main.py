@@ -58,6 +58,7 @@ total_dia = (total_etanol + total_gasolina + total_diesel)
 
 print("=============================Aluno:===============================")
 
+
 texto = ""
 combustiveis_abastecidos = []
 
@@ -123,3 +124,10 @@ with open("abastecimentos.txt", "a",encoding="utf-8") as arquivo:
                   f"Gasolina: R${total_gasolina:.2f}\n"
                   f"Diesel: R${total_diesel:.2f}\n"
                   f"TOTAL DO DIA:{total_dia:.2f}\n")
+
+print("=============================ETAPA3===============================")
+print("Recibo:\n")
+
+with open("abastecimentos.txt", "r",encoding="utf-8") as arquivo:
+    print(arquivo.read())
+
