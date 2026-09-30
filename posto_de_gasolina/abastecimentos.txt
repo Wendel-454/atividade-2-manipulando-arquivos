@@ -12,3 +12,7 @@ Combustível: Diesel
 Valor: R$200
 
 ========================================
+Etanol: R$50.00
+Gasolina: R$25.00
+Diesel: R$200.00
+TOTAL DO DIA:275.00
