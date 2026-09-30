@@ -55,3 +55,18 @@ for abastecimento in abastecimentos:
 # TOTAL DO DIA
 # ==========================================
 total_dia = (total_etanol + total_gasolina + total_diesel)
+
+print("=============================Aluno:===============================")
+
+texto = ""
+
+for i in abastecimentos:
+    texto +=   (f"{i.veiculo}\n"
+                f"Combustível: {i.combustivel}\n"
+                f"Valor: R${i.valor}\n\n")
+
+with open("abastecimentos.txt", "w",encoding="utf-8") as arquivo:
+    arquivo.write("========== POSTO DE GASOLINA ==========\n")
+    arquivo.write(texto)
+    arquivo.write("========================================\n")
+

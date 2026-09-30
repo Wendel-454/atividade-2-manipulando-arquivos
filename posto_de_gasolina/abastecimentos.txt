@@ -1,0 +1,14 @@
+========== POSTO DE GASOLINA ==========
+Carro - Placa: ABC-1234
+Combustível: Etanol
+Valor: R$50
+
+Moto - Placa: DEF-5678
+Combustível: Gasolina
+Valor: R$25
+
+Van Escolar - Placa: GHI-9012
+Combustível: Diesel
+Valor: R$200
+
+========================================
