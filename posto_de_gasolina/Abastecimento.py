@@ -4,9 +4,10 @@ class Abastecimento:
         self.combustivel = combustivel
         self.valor = valor
 
+
     def mostrar_abastecimento(self):
         print(
             f"{self.veiculo} | "
             f"Combustível: {self.combustivel} | "
-            f"Valor: R$ {self.valor:.2f}"
-        )
+            f"Valor: R$ {self.valor:.2f}")
+
