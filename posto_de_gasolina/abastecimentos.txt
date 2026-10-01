@@ -1,73 +1,38 @@
-=============== ETAPA 1 ===============
 ========== POSTO DE GASOLINA ==========
-Carro - Placa: ABC-1234
+Carro - ABC-1234
 Combustível: Etanol
 Valor: R$50
 
-Moto - Placa: DEF-5678
+Moto - DEF-5678
 Combustível: Gasolina
 Valor: R$25
 
-Van Escolar - Placa: GHI-9012
+Van Escolar - GHI-9012
 Combustível: Diesel
 Valor: R$200
 
-========================================
-Etanol: R$50.00
-Gasolina: R$25.00
-Diesel: R$200.00
-TOTAL DO DIA:275.00
-
-
-
-=============== ETAPA 2 ===============
-========== POSTO DE GASOLINA ==========
-Carro - Placa: ABC-1234
-Combustível: Etanol
-Valor: R$50
-
-Moto - Placa: DEF-5678
-Combustível: Gasolina
-Valor: R$25
-
-Van Escolar - Placa: GHI-9012
-Combustível: Diesel
-Valor: R$200
-
-Carro - Placa: ABC-1234
-Combustível: Etanol
-Valor: R$50
-
-Moto - Placa: DEF-5678
-Combustível: Gasolina
-Valor: R$25
-
-Van Escolar - Placa: GHI-9012
-Combustível: Diesel
-Valor: R$200
-
-barco - Placa: ABC-1234
+barco - ABC-1234
 Combustível: Diesel
 Valor: R$100
 
-caminhão - Placa: ABC-1234
+caminhão - ABC-1234
 Combustível: Diesel
 Valor: R$200
 
-avião - Placa: ABC-1234
+avião - ABC-1234
 Combustível: Gasolina
 Valor: R$500
 
-caminhonete - Placa: ABC-1234
+caminhonete - ABC-1234
 Combustível: Diesel
 Valor: R$150
 
-triciclo - Placa: ABC-1234
+triciclo - ABC-1234
 Combustível: Etanol
 Valor: R$50
 
 ========================================
-Etanol: R$150.00
-Gasolina: R$550.00
-Diesel: R$850.00
-TOTAL DO DIA:1550.00
+Etanol: R$100.00
+Gasolina: R$525.00
+Diesel: R$650.00
+TOTAL DO DIA:1275.00
