@@ -78,8 +78,6 @@ for i in abastecimentos:
                 f"Combustível: {i.combustivel}\n"
                 f"Valor: R${i.valor}\n\n")
 
-
-
 with open("abastecimentos.txt", "w",encoding="utf-8") as arquivo:
     arquivo.write("========== POSTO DE GASOLINA ==========\n")
     arquivo.write(texto)
